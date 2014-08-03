@@ -221,6 +221,7 @@ MODULES   += stun turn ice natbd auloop presence
 MODULES   += menu contact vumeter mwi account natpmp httpd
 MODULES   += selftest
 MODULES   += srtp
+MODULES   += vpn
 ifneq ($(HAVE_PTHREAD),)
 MODULES   += aubridge
 endif
