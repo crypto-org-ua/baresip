@@ -1,3 +1,12 @@
+MediaVPN
+========
+
+MediaVPN is a totally new concept in VPN solutions. It allows to build full-featured secure VPN over existing VoIP infrastructure.
+
+Yes... It is not VoIP over VPN... It is VPN over VoIP!
+
+Now building VPN has become as simple as making a phone call!
+
 baresip
 =======
 
